@@ -5,4 +5,4 @@ export const notify = (message ,type) =>{
 }
 
 
-export const API_URL = 'https://mern-task-manager-deploy-api-ten.vercel.app'
+export const API_URL = 'https://mern-task-manager-deploy-api-ten.vercel.app';
